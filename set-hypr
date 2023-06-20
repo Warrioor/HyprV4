@@ -63,8 +63,7 @@ install_stage=(
     network-manager-applet 
     gvfs 
     thunar-archive-plugin 
-    file-roller
-    starship 
+    file-roller 
     papirus-icon-theme 
     ttf-jetbrains-mono-nerd 
     noto-fonts-emoji 
