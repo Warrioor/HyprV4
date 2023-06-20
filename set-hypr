@@ -39,35 +39,36 @@ nvidia_stage=(
 
 #the main packages
 install_stage=(
-    kitty 
-    mako 
+    kitty
+    mako
     waybar
-    swww 
-    swaylock-effects 
-    wofi 
-    wlogout 
-    xdg-desktop-portal-hyprland 
-    swappy 
-    grim 
-    slurp 
-    thunar 
+    swww
+    swaylock-effects
+    wofi
+    wlogout
+    xdg-desktop-portal-hyprland
+    swappy
+    grim
+    slurp
+    thunar
     btop
     firefox
+    starship
     mpv
-    pamixer 
-    pavucontrol 
-    brightnessctl 
-    bluez 
-    bluez-utils 
-    blueman 
-    network-manager-applet 
-    gvfs 
-    thunar-archive-plugin 
-    file-roller 
-    papirus-icon-theme 
-    ttf-jetbrains-mono-nerd 
-    noto-fonts-emoji 
-    lxappearance 
+    pamixer
+    pavucontrol
+    brightnessctl
+    bluez
+    bluez-utils
+    blueman
+    network-manager-applet
+    gvfs
+    thunar-archive-plugin
+    file-roller
+    papirus-icon-theme
+    ttf-jetbrains-mono-nerd
+    noto-fonts-emoji
+    lxappearance
     xfce4-settings
     nwg-look-bin
     sddm
