@@ -54,6 +54,7 @@ install_stage=(
     btop
     firefox
     starship
+    reflector
     mpv
     pamixer
     pavucontrol
