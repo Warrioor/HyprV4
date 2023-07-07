@@ -47,6 +47,7 @@ install_stage=(
     wofi
     wlogout
     xdg-desktop-portal-hyprland
+    downgrade
     swappy
     grim
     slurp
