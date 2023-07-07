@@ -1,27 +1,28 @@
 {
     "label" : "lock",
     "action" : "swaylock",
-    "text" : "Lock",
+    "text" : "Lock (K)",
     "keybind" : "k"
 }
 
 {
     "label" : "hibernate",
     "action" : "systemctl hibernate",
-    "text" : "Hibernate"
+    "text" : "Hibernate (H)",
+    "keybind" : "h"
 }
 
 {
     "label" : "logout",
     "action" : "hyprctl dispatch exit 0",
-    "text" : "Logout",
+    "text" : "Logout (L)",
     "keybind" : "l"
 }
 
 {
     "label" : "shutdown",
     "action" : "systemctl poweroff",
-    "text" : "Shutdown",
+    "text" : "Shutdown (S)",
     "keybind" : "s"
 }
 
@@ -34,6 +35,6 @@
 {
     "label" : "reboot",
     "action" : "systemctl reboot",
-    "text" : "Reboot",
+    "text" : "Reboot (R)",
     "keybind" : "r"
 }
