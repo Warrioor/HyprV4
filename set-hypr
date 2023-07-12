@@ -51,6 +51,8 @@ install_stage=(
     swappy
     grim
     slurp
+    zathura
+    zathura-pdf-mupdf
     thunar
     btop
     firefox
