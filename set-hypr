@@ -54,6 +54,7 @@ install_stage=(
     zathura
     zathura-pdf-mupdf
     thunar
+    tumbler
     btop
     firefox
     starship
