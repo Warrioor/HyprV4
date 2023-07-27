@@ -346,6 +346,10 @@ if [[ $CFG == "Y" || $CFG == "y" ]]; then
     gsettings set org.gnome.desktop.interface gtk-theme "Adwaita-dark"
     gsettings set org.gnome.desktop.interface icon-theme "Papirus-Dark"
     cp -f ~/.config/HyprV/backgrounds/v4-background-dark.jpg /usr/share/sddm/themes/sdt/wallpaper.jpg
+
+    # setup autocompletion files
+    sudo cp Extras/bash_completion /usr/share/bash-completion/
+    sudo cp Extras/sudo /usr/share/bash-completion/completions/
 fi
 
 ### Install the starship shell ###
