@@ -58,6 +58,7 @@ install_stage=(
     tumbler
     btop
     galculator
+    mousepad
     firefox
     brave-bin
     neofetch
