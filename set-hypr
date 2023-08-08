@@ -49,6 +49,7 @@ install_stage=(
     xdg-desktop-portal-hyprland
     downgrade
     swappy
+    flatpak
     grim
     slurp
     zathura
