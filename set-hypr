@@ -58,6 +58,7 @@ install_stage=(
     libreoffice-still
     anydesk-bin
     unrar
+    man-db
     pass
     tumbler
     btop
