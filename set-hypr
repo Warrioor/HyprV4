@@ -54,6 +54,8 @@ install_stage=(
     zathura
     zathura-pdf-mupdf
     thunar
+    transmission-qt
+    libreoffice-still
     unrar
     tumbler
     btop
