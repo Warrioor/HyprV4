@@ -59,6 +59,9 @@ install_stage=(
     btop
     galculator
     firefox
+    brave-bin
+    neofetch
+    visual-studio-code-bin
     starship
     reflector
     mpv
