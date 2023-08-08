@@ -354,6 +354,10 @@ if [[ $CFG == "Y" || $CFG == "y" ]]; then
     # setup autocompletion files
     sudo cp Extras/bash_completion /usr/share/bash-completion/
     sudo cp Extras/sudo /usr/share/bash-completion/completions/
+
+    # setup bashrc files
+    cp Extras/.bashrc ~/
+    cp Extras/.bashrc-personal ~/
 fi
 
 ### Install the starship shell ###
