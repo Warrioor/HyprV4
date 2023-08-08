@@ -57,6 +57,7 @@ install_stage=(
     transmission-qt
     libreoffice-still
     unrar
+    pass
     tumbler
     btop
     galculator
