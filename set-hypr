@@ -52,6 +52,7 @@ install_stage=(
     flatpak
     grim
     slurp
+    dosfstools
     zathura
     zathura-pdf-mupdf
     thunar
