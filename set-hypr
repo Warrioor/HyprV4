@@ -59,6 +59,7 @@ install_stage=(
     transmission-qt
     libreoffice-still
     anydesk-bin
+    dnsutils
     unrar
     man-db
     pass
