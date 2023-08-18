@@ -50,7 +50,7 @@ install_stage=(
     downgrade
     swappy
     flatpak
-    grim
+    grimshot
     slurp
     dosfstools
     zathura
