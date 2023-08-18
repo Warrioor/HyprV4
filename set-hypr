@@ -46,6 +46,7 @@ install_stage=(
     swaylock-effects
     wofi
     wlogout
+    ffmpegthumbnailer
     xdg-desktop-portal-hyprland-git
     downgrade
     swappy
