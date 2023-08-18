@@ -62,7 +62,6 @@ install_stage=(
     anydesk-bin
     dnsutils
     unrar
-    xkill
     man-db
     pass
     tumbler
