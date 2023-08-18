@@ -46,7 +46,7 @@ install_stage=(
     swaylock-effects
     wofi
     wlogout
-    xdg-desktop-portal-hyprland
+    xdg-desktop-portal-hyprland-git
     downgrade
     swappy
     flatpak
